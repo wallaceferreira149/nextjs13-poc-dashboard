@@ -2,6 +2,14 @@
   "name": "nextjs13-poc-dashboard",
   "version": "0.1.0",
   "private": true,
+  "author": "Wallace Ferreira",
+  "description": "POC to Next 13 and dashboard implemments",
+  "homepage": "YOUR_GIT_REPO_URL",
+  "engines": {
+    "node": ">=16.15.1",
+    "yarn": ">=1.22.5",
+    "npm": "please use yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
